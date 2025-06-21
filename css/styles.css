@@ -87,7 +87,7 @@ ul {
         letter-spacing: 0.02em;
         text-align: center;
         color: #fff;
-        margin: 0 auto;
+        margin: 0 auto 48px;
         max-width: 496px;
 }
 
@@ -271,7 +271,6 @@ header .container {
 .navigation-list {
     display: flex;
     gap: 40px;
-    padding: 24px 0;
 }
 
 .adress-list {
